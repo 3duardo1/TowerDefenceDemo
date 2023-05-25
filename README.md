@@ -1,6 +1,7 @@
 # TowerDefenceDemo
 
 This game plays exactly as Plants vs Zombies.
+
 There are three types of towers (Defenders):
 
 Circle: Like sunflowers in Plants vs Zombies, this tower adds money to buy other towers.
